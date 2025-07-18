@@ -5,9 +5,11 @@
 | Time         | Focus Type              |
 |--------------|--------------------------|
 | 08:30–09:15  | Morning deep-focus study |
-| 2× Evening / wk | 45–60 min deeper sessions (building, reviewing) |
+| 4× Evening / wk (min: Tue, Thu, Fri) | 45–60 min deeper sessions (building, reviewing) |
 
-> ⚠️ Stick to ~3 sessions/day max to avoid burnout. Use Flow app on mac to set  timer. 
+> ⚠️ Stick to ~3 sessions/day max to avoid burnout. Use Flow app on mac to set timer. 
+> 
+> **Evening sessions:** Aim for at least Tuesday, Thursday, and Friday each week. The fourth session can be flexible (e.g., Sunday or Monday) based on your schedule.
 ---
 
 ## 🎯 Current Focus Areas (Q3: July–September)
