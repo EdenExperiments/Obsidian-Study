@@ -8,15 +8,16 @@
 - **Monthly**: Write 1 security practice note with hands-on examples
 
 ### 🏗️ Backend Design & Code Quality
-- **By July 31**: Complete Pluralsight C# Design Patterns course (P1)
-- **By August 31**: Read Head First C# Design Patterns + complete 3 John Cricket challenges (P2)
+- **By August 15**: Complete Pluralsight C# Design Patterns course (P1)
+- **By September 31**: Read Head First C# Design Patterns + complete 3 John Cricket challenges (P2)
 - **Weekly**: Implement 1 design pattern in a small project
 - **Monthly**: Create 1 design pattern cheat sheet/notes
 
 ### 📈 Data Systems & Querying
 - **By July 31**: Complete Use The Index Luke chapters 1-4 (P1)
 - **By August 31**: Read DDIA chapters 1-6 + complete Use The Index Luke chapters 5-8 (P2)
-- **By September 15**: Complete Pluralsight SQL Introduction path (P3)
+- **By September 30**: Complete Pluralsight SQL Introduction path (P3)
+- Complete DDIA
 - **Weekly**: Practice 5 complex SQL queries (joins, CTEs, window functions)
 - **Monthly**: Create 1 performance tuning case study
 

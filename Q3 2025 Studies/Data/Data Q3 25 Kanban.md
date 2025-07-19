@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Use the Index CH2
 - [ ] Use the Index CH3
 - [ ] Use the Index CH4
 - [ ] Use the Index CH5
@@ -30,11 +29,12 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Use the Index CH1
+- [ ] Use the Index CH2
 
 
 ## Done
 
+- [ ] Use the Index CH1
 
 
 
