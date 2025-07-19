@@ -41,20 +41,14 @@
             "id": "b7a3ada1aa612fce",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Q3 2025 Studies/Data/Data Q3 25 Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Daily Notes/July25/2025-07-19.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Data Q3 25 Kanban"
+              "icon": "lucide-file",
+              "title": "2025-07-19"
             }
           }
         ],
@@ -131,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q3 2025 Studies/Data/Data Q3 25 Kanban.md",
+                "file": "Daily Notes/July25/2025-07-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Data Q3 25 Kanban"
+              "title": "Backlinks for 2025-07-19"
             }
           },
           {
@@ -150,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q3 2025 Studies/Data/Data Q3 25 Kanban.md",
+                "file": "Daily Notes/July25/2025-07-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Data Q3 25 Kanban"
+              "title": "Outgoing links from 2025-07-19"
             }
           },
           {
@@ -179,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q3 2025 Studies/Data/Data Q3 25 Kanban.md",
+                "file": "Daily Notes/July25/2025-07-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Q3 25 Kanban"
+              "title": "Outline of 2025-07-19"
             }
           },
           {
@@ -229,15 +223,14 @@
   },
   "active": "b7a3ada1aa612fce",
   "lastOpenFiles": [
-    "Q3 2025 Studies/Goals & Timeline.md",
     "Q3 2025 Studies/Study Plans.md",
-    "Q4 2025 Studies/Study Plans.md",
     "Q3 2025 Studies/Data/Data Q3 25 Kanban.md",
+    "Q3 2025 Studies/Security/Security Q3 25 Kanban.md",
+    "Q4 2025 Studies/Ideas.md",
+    "Q3 2025 Studies/Goals & Timeline.md",
     "Q3 2025 Studies/Backend/Backend Q3 25 Kanban.md",
     "Q3 2025 Studies/AZ-900/AZ-900 Q3 25 Kanban.md",
-    "Q3 2025 Studies/Security/Security Q3 25 Kanban.md",
     "Daily Notes/July25/2025-07-19.md",
-    "Ideas.md",
     "Q3 2025 Studies/AZ-900",
     "Q4 2025 Studies",
     "Q3 2025 Studies",
